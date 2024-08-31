@@ -19,3 +19,4 @@ We implement rostopic in the gpsshowmap.py file to read IMU and RTK trajectories
 For ease of use, we have integrated image reading, point cloud file reading and mapping into one software, the download link is below: 
 
 Username: sam, Password:123
+The rosbag for testing is available in the RTS-SLAM repository.
