@@ -17,6 +17,7 @@ This code has been tested on:
 #### Datasets and Software
 We implement rostopic in the gpsshowmap.py file to read IMU and RTK trajectories, mapping the trajectories to Google Maps. Then the point cloud is implemented on the open Google map for mapping.
 For ease of use, we have integrated image reading, point cloud file reading and mapping into one software, the download link is below: 
-
+Link: https://pan.baidu.com/s/10DS8RjlMTLmnn-fde9io9A   Passcode: SXMU 
+Download & unzip, run  in ubuntu 18.04.
 Username: sam, Password:123
 The rosbag for testing is available in the RTS-SLAM repository.
